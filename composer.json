@@ -1,7 +1,7 @@
 {
     "name": "adam/rackspaceapiconnector",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Provides a connection to Rackspace for Laravel applications using the Rackspace API.",
     "keywords": [
         "laravel",
         "framework"
