@@ -32,8 +32,8 @@ class ApiController extends Controller
             $data = json_encode(array(
                 "auth" => array(
                     "RAX-KSKEY:apiKeyCredentials" => array(
-                        "username" => "searchfunder",
-                        "apiKey" => "926913dacf3545f1aadbdb4388ba3638"
+                        "username" => "",
+                        "apiKey" => ""
                     )
                 )
             ));
